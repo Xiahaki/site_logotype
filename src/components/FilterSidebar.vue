@@ -9,7 +9,6 @@
         <div class="category-item sub active">Название категории <span>3</span></div>
       </div>
     </div>
-
     <div class="filter-section">
       <div class="filter-title">Цена</div>
       <div class="price-inputs">
@@ -24,7 +23,6 @@
         </div>
       </div>
     </div>
-
     <div class="filter-section">
       <div class="filter-header-with-clear">
         <div class="filter-title">Бренд</div>
@@ -39,69 +37,68 @@
       </div>
       <div class="checkbox-list">
         <label class="checkbox-item checked">
-          <div class="checkbox checked"></div>
+          <input type="checkbox"></input>
           <span>Атрибут</span>
           <span class="count">3</span>
         </label>
         <label class="checkbox-item">
-          <div class="checkbox"></div>
+          <input type="checkbox"></input>
           <span>Атрибут</span>
           <span class="count">3</span>
         </label>
         <label class="checkbox-item">
-          <div class="checkbox"></div>
+          <input type="checkbox"></input>
           <span>Атрибут</span>
           <span class="count">3</span>
         </label>
         <label class="checkbox-item">
-          <div class="checkbox"></div>
+          <input type="checkbox"></input>
           <span>Атрибут</span>
           <span class="count">3</span>
         </label>
         <label class="checkbox-item">
-          <div class="checkbox"></div>
+          <input type="checkbox"></input>
           <span>Атрибут</span>
           <span class="count">3</span>
         </label>
         <label class="checkbox-item">
-          <div class="checkbox"></div>
+          <input type="checkbox"></input>
           <span>Атрибут</span>
           <span class="count">3</span>
         </label>
       </div>
       <div class="scrollbar"></div>
     </div>
-
     <div class="filter-section">
       <div class="filter-title">Размер</div>
       <div class="checkbox-list">
         <label class="checkbox-item">
-          <div class="checkbox"></div>
+          <input type="checkbox"></input>
           <span>Атрибут</span>
           <span class="count">3</span>
         </label>
         <label class="checkbox-item">
-          <div class="checkbox"></div>
+          <input type="checkbox"></input>
           <span>Атрибут</span>
           <span class="count">3</span>
         </label>
         <label class="checkbox-item">
-          <div class="checkbox"></div>
+          <input type="checkbox"></input>
           <span>Атрибут</span>
           <span class="count">3</span>
         </label>
         <label class="checkbox-item">
-          <div class="checkbox"></div>
+          <input type="checkbox"></input>
           <span>Атрибут</span>
           <span class="count">3</span>
         </label>
         <label class="checkbox-item">
-          <div class="checkbox"></div>
+          <input type="checkbox"></input>
           <span>Атрибут</span>
           <span class="count">3</span>
         </label>
         <label class="checkbox-item">
-          <div class="checkbox"></div>
+          <input type="checkbox"></input>
           <span>Атрибут</span>
           <span class="count">3</span>
         </label>
@@ -109,7 +106,6 @@
     </div>
   </aside>
 </template>
-
 <script setup lang="ts">
 </script>
 
