@@ -1,0 +1,44 @@
+:root {
+  --color-white: #ffffff;
+  --color-primary: #333333;
+  --color-secondary: #aaaaaa;
+  --color-hover-bg: #e2efff;
+  --color-border: #d5d5d5;
+  --color-brand-primary: #7397f5;
+  --color-icons: #cbcbcb;
+  --color-scrollbar: #f2f2f2;
+  --color-hover-text: #125bae;
+  --color-background: #f8f8fa;
+  --color-orange: #ff8743;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'PT Sans', -apple-system, Roboto, Helvetica, sans-serif;
+  color: var(--color-primary);
+  background: var(--color-white);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+  border: none;
+  background: none;
+}
+
+input {
+  font-family: inherit;
+}
